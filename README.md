@@ -1,4 +1,4 @@
-# [Estupendo/Stum](https://github.com/Estupendo/Stum)
+# Estupendo/Stum
 
 Stum is a content manager complementation for Cockpit CMS for building fast,
 robust, and adaptable web apps or sites.
@@ -12,7 +12,7 @@ robust, and adaptable web apps or sites.
 
 Choose one of the following options:
 
-1. Download the latest stable [release](https://github.com/Estupendo/Stum/releases).
+1. Download the [latest stable](https://github.com/Estupendo/Stum/releases) release.
 2. Clone the git repo — `git clone
    https://github.com/Estupendo/Stum.git` - if you'd like to
    use source code.
