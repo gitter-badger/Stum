@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "20c2c8b1dbf1c3355239d22a3a6fdb3f",
+    "hash": "232f5fb3ad74473105a038d9b2772de8",
     "packages": [
         {
             "name": "aheinze/cockpit",
