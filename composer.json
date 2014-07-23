@@ -19,7 +19,6 @@
     },
 
     "require": {
-        "aheinze/cockpit": "0.9.*",
         "slim/slim": "2.4.*"
     }
 
