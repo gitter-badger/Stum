@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+        <name> -- <role> -- <GitHub>
+  Jonas Orrico -- Author -- @Estupendo
+
+
+# THANKS
+
+    <name>
+    Isaac Orrico
+
+
+# TECHNOLOGY COLOPHON
+
+    PHP, JavaScript, CSS3, HTML5
+    Apache Server Configs, Slim Framework, Cockpit, Bootstrap, jQuery, Modernizr

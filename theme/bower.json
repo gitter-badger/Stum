@@ -1,0 +1,37 @@
+{
+  "name": "Vice One",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Estupendo/Stum",
+  "authors": [
+    "Jonas Orrico <jonas@estupendo.net>"
+  ],
+  "description": "Default theme",
+  "main": "index.php",
+
+  "keywords": [
+    "Stum",
+    "Estupendo",
+    "Cockpit",
+    "CMS"
+  ],
+  "license": "Apache 2.0",
+  "private": true,
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chosen": "~1.1.0",
+    "font-awesome": "~4.1.0",
+    "bootstrap": "~3.2.0",
+    "nprogress": "~0.1.6",
+    "html5-boilerplate": "~4.3.0",
+    "skrollr": "~0.6.26",
+    "modernizr": "~2.8.3"
+  }
+}

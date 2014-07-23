@@ -1,0 +1,26 @@
+{
+    "name": "Estupendo/Stum",
+    "version": "0.0.1",
+    "description": "Content manager complementation for Cockpit",
+    "homepage": "https://github.com/Estupendo/Stum",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Jonas Orrico",
+            "email": "jonas@estupendo.net",
+            "homepage": "http://estupendo.net"
+        }
+    ],
+
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Estupendo/Stum.git",
+      "bugs": "https://github.com/Estupendo/Stum/issues"
+    },
+
+    "require": {
+        "aheinze/cockpit": "0.9.*",
+        "slim/slim": "2.4.*"
+    }
+
+}

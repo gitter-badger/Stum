@@ -1,0 +1,5 @@
+.DS_Store
+/vendor/composer/
+/vendor/slim/
+/vendor/autoload.php
+/theme/assets/components/
