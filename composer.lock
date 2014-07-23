@@ -7,6 +7,49 @@
     "hash": "20c2c8b1dbf1c3355239d22a3a6fdb3f",
     "packages": [
         {
+            "name": "aheinze/cockpit",
+            "version": "0.9.17",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/aheinze/cockpit.git",
+                "reference": "5e3a8d84e5348b8e8e079f309664daea26d7645e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/aheinze/cockpit/zipball/5e3a8d84e5348b8e8e079f309664daea26d7645e",
+                "reference": "5e3a8d84e5348b8e8e079f309664daea26d7645e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "project",
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Artur Heinze",
+                    "email": "artur@agentejo.com",
+                    "homepage": "http://agentejo.com"
+                }
+            ],
+            "description": "An api-driven CMS without forcing you to make compromises in how you implement your site.",
+            "homepage": "http://getcockpit.com",
+            "keywords": [
+                "api",
+                "cms",
+                "nosql"
+            ],
+            "time": "2014-07-12 22:32:48"
+        },
+        {
             "name": "slim/slim",
             "version": "2.4.3",
             "source": {
