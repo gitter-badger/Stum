@@ -12,7 +12,7 @@
 // Define API main routes
   $app->get('/', function() use ($app) {
 
-    $query = collection(site)->find()->toArray();
+    $query = collection(siteInfo)->find()->toArray();
     $siteInfo = array('siteInfo' => $query[0]);
 
     // Render data for theme
