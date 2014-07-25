@@ -12,6 +12,11 @@
 ** version: 0.0.1
 */
 
+-* {
+  border: 1px dashed #eee;
+}
+
+
 body {
   padding-top: 20px;
 }
