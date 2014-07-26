@@ -1,16 +1,7 @@
 <?php
 
-/*
-** Estupendo/Stum
-** version: 0.0.1
-** description: Content manager complementation for Cockpit
-** Site: https://github.com/Estupendo/Stum
-** license: Apache 2.0
-** Autor: Jonas Orrico
-*/
-
 /* Vice One
-** - default Theme
+** - default Stum CMS Theme
 ** version: 0.0.1
 */
 
@@ -27,7 +18,7 @@
     <meta name="description" content="Content manager complementation for Cockpit">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title><?php echo $siteInfo['name'] . ' - ' . $siteInfo['desc']; ?></title>
+    <title>Stum CMS</title>
 
     <link rel="stylesheet" href="<?php echo THEME_PATH; ?>/assets/components/bootstrap/dist/css/bootstrap.css">
     <link rel="stylesheet" href="<?php echo THEME_PATH; ?>/assets/components/font-awesome/css/font-awesome.css">
@@ -41,7 +32,7 @@
     <header class="header container">
       <div class="row">
         <div class="col-md-3">
-          <h3 class="text-muted"><?php echo $siteInfo['name']; ?></h3>
+          <h3 class="text-muted">Stum CMS</h3>
         </div>
         <div class="col-md-9">
           <ul class="nav nav-justified">

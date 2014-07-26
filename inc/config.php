@@ -2,7 +2,7 @@
 
 /*
 ** Estupendo/Stum
-** version: 0.0.1
+** version: 0.0.2
 ** description: Content manager complementation for Cockpit
 ** Site: https://github.com/Estupendo/Stum
 ** license: Apache 2.0
@@ -10,7 +10,7 @@
 */
 
 
-define('THEME_PATH', 'theme');
+define('THEME_PATH', 'themes');
 
 // Load Slim object and configuration
 $app = new \Slim\Slim(

@@ -1,7 +1,6 @@
 # Estupendo/Stum
 
-Stum is a content manager complementation for Cockpit CMS for building fast,
-robust, and adaptable web apps or sites.
+Stum is a adaptable content manager implementation for building fast websites and robust applications.
 
 * Source: [https://github.com/Estupendo/Stum](https://github.com/Estupendo/Stum)
 * Homepage: [http://estupendo.net/Stum](http://estupendo.net/Stum)
@@ -23,7 +22,7 @@ Choose one of the following options:
 * HTML5 ready. Use the new elements with confidence.
 * Cross-browser compatible (Chrome, Firefox, IE8+, Opera, Safari).
 * Designed with progressive enhancement in mind.
-* Includes PDO simples functions for access collections.
+* Includes simple functions for access information in collections (require PDO).
 * The latest [Slim Framework](http://www.slimframework.com/) for build API.
 
 

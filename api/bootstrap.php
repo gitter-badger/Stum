@@ -2,7 +2,7 @@
 
 /*
 ** Estupendo/Stum
-** version: 0.0.1
+** version: 0.0.2
 ** description: Content manager complementation for Cockpit
 ** Site: https://github.com/Estupendo/Stum
 ** license: Apache 2.0
@@ -12,11 +12,8 @@
 // Define API main routes
   $app->get('/', function() use ($app) {
 
-    $query = collection(siteInfo)->find()->toArray();
-    $siteInfo = array('siteInfo' => $query[0]);
-
-    // Render data for theme
-    $app->render('index.php', $siteInfo, 200);
+    // Render theme
+    $app->render('index.php');
 
   });
 
