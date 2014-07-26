@@ -23,7 +23,7 @@ Choose one of the following options:
 * HTML5 ready. Use the new elements with confidence.
 * Cross-browser compatible (Chrome, Firefox, IE8+, Opera, Safari).
 * Designed with progressive enhancement in mind.
-* Includes [Cockpit CMS](http://getcockpit.com/) for back-end.
+* Includes PDO simples functions for access collections.
 * The latest [Slim Framework](http://www.slimframework.com/) for build API.
 
 
