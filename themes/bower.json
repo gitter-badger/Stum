@@ -7,7 +7,6 @@
   ],
   "description": "Default theme",
   "main": "index.php",
-
   "keywords": [
     "Stum",
     "Estupendo",
@@ -16,7 +15,6 @@
   ],
   "license": "Apache 2.0",
   "private": true,
-
   "ignore": [
     "**/.*",
     "node_modules",
@@ -26,11 +24,17 @@
     "tests"
   ],
   "dependencies": {
-    "chosen": "~1.1.0",
-    "font-awesome": "~4.1.0",
-    "bootstrap": "~3.2.0",
-    "nprogress": "~0.1.6",
-    "skrollr": "~0.6.26",
-    "modernizr": "~2.8.3"
+    "jquery": "1.11.*",
+    "modernizr": "2.8.*",
+    "bootstrap": "3.2.*",
+    "font-awesome": "4.1.*",
+    "nprogress": "0.1.*",
+    "scrollReveal.js": "0.1.*",
+    "jquery-smooth-scroll": "1.4.*",
+    "requirejs": "2.1.*",
+    "jquery-waypoints": "2.0.*",
+    "animate.css": "3.2.*",
+    "chosen": "1.1.*",
+    "FlexSlider": "*"
   }
 }
