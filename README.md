@@ -1,7 +1,7 @@
 # Estupendo/Stum
 
 Stum is a content manager complementation for building fast,
-robust, and adaptable web/mobile apps.
+robust, and adaptable web/mobile applications.
 
 * Source: [https://github.com/Estupendo/Stum](https://github.com/Estupendo/Stum)
 * Homepage: [http://estupendo.net/Stum](http://estupendo.net/Stum)
