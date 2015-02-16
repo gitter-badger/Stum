@@ -1,5 +1,7 @@
 # Estupendo/Stum
 
+[![Join the chat at https://gitter.im/Estupendo/Stum](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Estupendo/Stum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Stum is a content manager complementation for building fast,
 robust, and adaptable web/mobile applications.
 
